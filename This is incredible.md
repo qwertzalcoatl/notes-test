@@ -8,5 +8,5 @@ asdasdmk. diadjuaidajaks dasdkjhsakdka
 dasdnjkasdnaskj dsajdiasjda
 - [ ] dasdsad
 - [ ] @perter has to do
-- [ ] Peter has to do it
+- [x] Peter has to do it
 - [ ] 
