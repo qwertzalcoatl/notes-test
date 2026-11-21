@@ -6,7 +6,7 @@ dsadsada asd asd ad asdas d as
 adsasdasdasdadsd. asdasdsadasdsad 
 asdasdmk. diadjuaidajaks dasdkjhsakdka
 dasdnjkasdnaskj dsajdiasjda
-- [ ] dasdsad
-- [ ] @perter has to do
+- [x] dasdsad
+- [x] @perter has to do
 - [x] Peter has to do it
-- [ ] 
+- [x] 
